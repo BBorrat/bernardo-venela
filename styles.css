@@ -738,6 +738,7 @@ img {
   font-weight: 700;
   color: var(--ink);
   line-height: 1.2;
+  text-wrap: balance;
 }
 
 @media (min-width: 640px) {
@@ -818,6 +819,7 @@ img {
   font-size: 1.25rem;
   font-weight: 700;
   line-height: 1.35;
+  text-wrap: balance;
 }
 
 @media (min-width: 640px) {
@@ -1648,6 +1650,7 @@ img {
   font-family: var(--font-serif);
   font-size: 1.125rem;
   font-weight: 700;
+  text-wrap: balance;
   color: var(--ink);
 }
 
@@ -1780,6 +1783,7 @@ img {
   font-family: var(--font-serif);
   font-size: 1.25rem;
   font-weight: 700;
+  text-wrap: balance;
   color: var(--ink);
 }
 
